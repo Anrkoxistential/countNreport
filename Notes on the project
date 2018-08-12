@@ -1,0 +1,16 @@
+Notes on the project 
+
+Answers urls 
+https://wix.wixanswers.com/app/helpdesk/tickets
+
+Send button HTML Properties
+<button class="aul button default normal add-reply wixLibRply">Send</button>
+
+Send and resolve button HTML properlties 
+<button class="aul button positive normal add-reply-and-resolve wixLibRply">Send &amp; Resolve</button>
+
+test google spreadsheet id 
+
+Name: myspreadshit
+Id: 12kRHNeyknru5s8cn82YRhKH3otSkMBc8O0qUORC70_g
+

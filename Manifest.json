@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Ticket Counter and Daily Report",
+  "description": "Life is really interesting sometimes.",
+  "version": "0.1", 
+  "content_scripts": [
+  	{
+  		"matches": ["https://mail.google.com/*"],
+  		"js": ["content.js"]	
+  	}
+  ],
+  "background": {
+  	"scripts": ["background.js"]
+  },
+  "browser_action": {
+  	"default_icon": "Cholo.png",
+  	"default_popup": "popup.html",
+  	"default_title": "here is the title"
+  }
+}
