@@ -1,2 +1,2 @@
 # countNreport
-This project is to create a chrome extension to track numbers and also create agent reports
+this is an app to randomize ideas to help make choises on low impact desitions.  
